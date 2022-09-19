@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Fibranode.com, Filehub.host and Astolfo.email<br><br>🌱 I’m currently learning Frameworks<br><br>👨‍💻 All of my projects are available at https://yalu.dev<br><br>📫 How to reach me info@yalu.systems<br><br>
+🔭 I’m currently working on Fibranode.com <br><br>🌱 I’m currently learning Frameworks<br><br>👨‍💻 All of my projects are available at https://yalu.dev<br><br>📫 How to reach me info@yalu.systems<br><br>
 
 
 ## 🌐 Socials:
