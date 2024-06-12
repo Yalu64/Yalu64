@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on beating Ömer in Chess <br><br>🌱 I’m currently learning Frameworks<br><br>👨‍💻 All of my projects are available at https://yalu.dev<br><br>📫 How to reach me info@yalu.systems<br><br>
+🔭 I’m currently working on GoBerly.com <br><br>🌱 I’m currently developing goberly.com<br><br>👨‍💻 All of my projects are available at https://yalu.dev<br><br>📫 How to reach me info@yalu.systems<br><br>
 
 
 ## 🌐 Socials:
